@@ -12,7 +12,11 @@ dependencies = [
     "matplotlib (>=3.10.7,<4.0.0)",
     "opencv-python (>=4.12.0.88,<5.0.0.0)",
     "supervision (>=0.26.1,<0.27.0)",
-    "scikit-image (>=0.25.2,<0.26.0)"
+    "scikit-image (>=0.25.2,<0.26.0)",
+    "ipywidgets (>=8.1.8,<9.0.0)",
+    "ipykernel (>=7.1.0,<8.0.0)",
+    "scipy (>=1.16.3,<2.0.0)",
+    "ipympl (>=0.9.8,<0.10.0)"
 ]
 
 
